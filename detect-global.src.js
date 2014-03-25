@@ -120,7 +120,9 @@
       'Scriptaculous':    'Autocompleter Builder Control Draggable Draggables Droppables Effect Sortable SortableObserver Sound Scriptaculous'.split(' '),
       'Firebug':          'loadFirebugConsole console _getFirebugConsoleElement _FirebugConsole _FirebugCommandLine _firebug'.split(' '),
       'Mozilla':          'Components XPCNativeWrapper XPCSafeJSObjectWrapper getInterface netscape GetWeakReference'.split(' '),
-      'GoogleAnalytics':  'gaJsHost gaGlobal _gat _gaq pageTracker'.split(' ')
+      'GoogleAnalytics':  'gaJsHost gaGlobal _gat _gaq pageTracker'.split(' '),
+      'jQuery':'jQuery'.split(' '),
+      'Twitter':'twttr __twttrlr __twitterIntentHandler'.split(' ')
     };
     
     initConfigPopup();
